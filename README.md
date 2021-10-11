@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-An Android app to draw something on a canvas and save them
+An Android app to play Tic-Tac-Toe
 
 ## Installation
 Clone this repository and import into **Android Studio** <br>
