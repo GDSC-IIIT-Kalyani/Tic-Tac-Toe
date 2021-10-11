@@ -1,8 +1,14 @@
 # Tic-Tac-Toe
+An Android app to draw something on a canvas and save them
 
-It's a game of tic tac toe written in java by using android studio.<br>
+## Installation
+Clone this repository and import into **Android Studio** <br>
+Fork it
+```bash
+git clone https://github.com/<User-Name>/Tic-Tac-Toe
+```
 
-[How to play](https://github.com/vineelsai5439/Tic-Tac-Toe/blob/master/.idea/codeStyles/How_to_play.md)
-
-you can download it here <br>
-<a href='https://play.google.com/store/apps/details?id=com.vs.tictactoe&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+## Contributing
+1. Fork it
+2. Commit your changes (git commit -m 'Add some feature')
+3. Create a new Pull Request
